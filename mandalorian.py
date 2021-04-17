@@ -10,8 +10,8 @@ greet = ["hello", "Hi", "Hello", 'HELLO']
 the_way = ["way", "Way", "WAY"]
 the_child = ["child", "Child", "The Child"]
 activity = ['Activity', 'activity', 'task', 'Task', 'PT']
-TOKEN = 'TOKEN HERE'
-owner_id = '175156410785464320'
+TOKEN = "YOUR BOT'S TOKEN HERE"
+owner_id = 'YOUR ID HERE'
 # Hi!! This is a personal project by Clint#0764, you may use this freely.
 # I made this bot with the inspiration from The Mandalorian series on Disney+.
 
